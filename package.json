@@ -8,6 +8,10 @@
     "description": "A cross between Brogrammer and Monokai theme",
     "version": "0.0.5",
     "publisher": "berikiushi",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/berikiushi/vscodium-bronokai-theme"
+    },
     "engines": {
         "vscode": "^1.83.0"
     },
