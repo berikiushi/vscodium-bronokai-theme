@@ -1,0 +1,28 @@
+{
+    "name": "bronokai-theme",
+    "author": {
+        "name": "Yury Lysov",
+        "url": "http://github.com/berikiushi"
+    },
+    "displayName": "Bronokai Theme",
+    "description": "A cross between Brogrammer and Monokai theme",
+    "version": "0.0.5",
+    "publisher": "berikiushi",
+    "engines": {
+        "vscode": "^1.83.0"
+    },
+    "icon": "images/icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bronokai Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vscodium-bronokai-theme.json"
+            }
+        ]
+    },
+    "license": "MIT"
+}
