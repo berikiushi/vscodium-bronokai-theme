@@ -1,4 +1,4 @@
-# Bronokai Theme for VS Code
+# Bronokai Theme
 
 A cross between Brogrammer and Monokai theme
 
@@ -10,11 +10,10 @@ A cross between Brogrammer and Monokai theme
 
 ## Installation
 
-1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+1. Open **Extensions** sidebar panel. `View → Extensions`
 2. Search for `Bronokai`
 3. Click **Install** to install it.
-4. Click **Reload** to reload the your editor
-5. Code > Preferences > Color Theme > **Bronokai**
+4. Code > Preferences > Color Theme > **Bronokai**
 
 ## Colors
 
